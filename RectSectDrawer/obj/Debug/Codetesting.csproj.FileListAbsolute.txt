@@ -1,0 +1,30 @@
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\bin\Debug\Codetesting.exe.config
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\bin\Debug\Codetesting.exe
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\bin\Debug\Codetesting.pdb
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.csprojResolveAssemblyReference.cache
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.Form1.resources
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.Properties.Resources.resources
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.csproj.GenerateResource.Cache
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.csproj.CoreCompileInputs.cache
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.exe
+C:\Users\fredr\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.pdb
+C:\Users\frj\Desktop\Codetesting\Codetesting\bin\Debug\Codetesting.exe.config
+C:\Users\frj\Desktop\Codetesting\Codetesting\bin\Debug\Codetesting.exe
+C:\Users\frj\Desktop\Codetesting\Codetesting\bin\Debug\Codetesting.pdb
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.csprojResolveAssemblyReference.cache
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.Form1.resources
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.Properties.Resources.resources
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.csproj.GenerateResource.Cache
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.csproj.CoreCompileInputs.cache
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.exe
+C:\Users\frj\Desktop\Codetesting\Codetesting\obj\Debug\Codetesting.pdb
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\bin\Debug\Codetesting.exe.config
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\bin\Debug\Codetesting.exe
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\bin\Debug\Codetesting.pdb
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.csprojAssemblyReference.cache
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.Form1.resources
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.Properties.Resources.resources
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.csproj.GenerateResource.cache
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.csproj.CoreCompileInputs.cache
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.exe
+C:\Users\frj\Google Drive\Programmering\Codetesting\Codetesting\obj\Debug\Codetesting.pdb
